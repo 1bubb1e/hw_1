@@ -1,5 +1,5 @@
 ### PERT/CPM圖
-![pert_hw2](https://github.com/user-attachments/assets/23054341-f572-4932-acde-e13b9d50bb0e)
+![pert_hw2](https://github.com/user-attachments/assets/670cfd22-4242-4de9-bda0-4f1664dec1e3)
 ### 甘特圖
 ![gantt_hw2](https://github.com/user-attachments/assets/dadee176-84e1-4578-a4dc-efd19f6ca9e2)
 ### 關鍵路徑
