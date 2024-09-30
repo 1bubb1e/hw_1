@@ -1,3 +1,5 @@
+### 工作分解結構清單
+![wbs_hw2](https://github.com/user-attachments/assets/97cbfbc2-8ab2-4c18-8a2c-f2577c4e7810)
 ### PERT/CPM圖
 ![pert_hw2](https://github.com/user-attachments/assets/670cfd22-4242-4de9-bda0-4f1664dec1e3)
 ### 甘特圖
