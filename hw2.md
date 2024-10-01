@@ -4,8 +4,8 @@
 #### 開始：第1天
 #### 結束：第155天
 ### PERT/CPM圖
-![pert_hw2](https://github.com/user-attachments/assets/670cfd22-4242-4de9-bda0-4f1664dec1e3)
+![pert_hw2](https://github.com/user-attachments/assets/fcf69881-ea59-466a-a390-c33ef0f6c65e)
 ### 甘特圖
 ![gantt_hw2](https://github.com/user-attachments/assets/d6ecff5e-86e8-472e-9db0-75ef9aa7588d)
 ### 關鍵路徑
-![cpm_hw2](https://github.com/user-attachments/assets/b978c624-90b0-4af6-b636-ebd8de61cc94)
+![cpm_hw2](https://github.com/user-attachments/assets/4a911309-ce64-48ed-b75c-5f9eca67c68f)
