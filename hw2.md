@@ -16,7 +16,7 @@ graph TD
 #### 開始：第1天
 #### 結束：第155天
 ### PERT/CPM圖
-![pert_hw2](https://github.com/user-attachments/assets/fcf69881-ea59-466a-a390-c33ef0f6c65e)
+![pert_hw2](https://github.com/user-attachments/assets/9874a569-0b26-4b3f-92fd-20dcb9523535)
 ### 甘特圖
 ```mermaid
 gantt
@@ -35,4 +35,5 @@ gantt
     使用者測試     :a11, after a9 a10, 25d
 ```
 ### 關鍵路徑
-![cpm_hw2](https://github.com/user-attachments/assets/4a911309-ce64-48ed-b75c-5f9eca67c68f)
+![cpm_hw2](https://github.com/user-attachments/assets/19390eac-7b64-4d93-bba3-620b5acf3aee)
+#### 關鍵路徑 : 1->2->4->6->9->11
