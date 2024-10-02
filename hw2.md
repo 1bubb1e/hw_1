@@ -1,5 +1,5 @@
-### 工作分解結構清單
-![wbs_hw2](https://github.com/user-attachments/assets/97cbfbc2-8ab2-4c18-8a2c-f2577c4e7810)
+### 任務及任務模式
+![flowchart_hw2](https://github.com/user-attachments/assets/ecf140f6-a1f8-4c0a-905a-f1059d2d2496)
 ### 開始及結束時間
 #### 開始：第1天
 #### 結束：第155天
